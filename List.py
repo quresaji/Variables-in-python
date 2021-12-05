@@ -15,6 +15,8 @@ print(List[2])
 
 msg=[" Ajay", 5,"Sajid",2,"Dipesh"]
 
+
+
 print(msg)
 print(msg[2])
 

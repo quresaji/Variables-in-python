@@ -5,6 +5,10 @@ print(" Sajid is a good guy")
 
 if 5 > 2:
  print("Five is greater than two!")
+ x=2
+ y=5
+
+ print("The product of both the values are:",(x*y))
 
 
 
