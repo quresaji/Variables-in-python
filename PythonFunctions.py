@@ -10,8 +10,8 @@ You can pass Data/parameter/arguments
 
 """
 def getMessage(name):
- print(f'Hello {name}, Welcome to Python')
+ print(f"Hello {name}, Welcome to Python")
 
- getMessage('Ritik')
- getMessage('Deepak')
+getMessage('name')
+getMessage('Deepak')
 

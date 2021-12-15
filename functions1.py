@@ -21,7 +21,7 @@ getMyName()
 
 #Arbitrary Argument
 def getMystudent(*std):
-    print("Hello"+ std[2])
+    print("Hello"+  std[2])
 getMystudent('Sajid',"Ajay","Dipesh")
 
 def productMyNumber(x,y):
